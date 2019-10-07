@@ -1,2 +1,2 @@
-# CNN_tutorial
+# CNN_notebook_tutorial
  
